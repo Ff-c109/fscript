@@ -1,0 +1,5 @@
+/home/ff-c109/projects/fscript/obj/Debug/net6.0/fscript.csproj.AssemblyReference.cache
+/home/ff-c109/projects/fscript/obj/Debug/net6.0/fscript.GeneratedMSBuildEditorConfig.editorconfig
+/home/ff-c109/projects/fscript/obj/Debug/net6.0/fscript.AssemblyInfoInputs.cache
+/home/ff-c109/projects/fscript/obj/Debug/net6.0/fscript.AssemblyInfo.cs
+/home/ff-c109/projects/fscript/obj/Debug/net6.0/fscript.csproj.CoreCompileInputs.cache
